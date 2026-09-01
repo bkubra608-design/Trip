@@ -1,0 +1,6 @@
+{
+  "name": "TripMate",
+  "description": "Your Personal AI Travel Assistant. Plan, personalize, organize, and manage your complete travel experience with intelligent itineraries, live updates, and smart recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
